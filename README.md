@@ -1,6 +1,7 @@
 ## Call me Leon
 
 Love to solve puzzles and experience with amazing technology. 
+
 A bit of an AI nerd
 
 ## Languages and Tools: 
